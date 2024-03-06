@@ -9,7 +9,7 @@
 
 # Hello GitHub Actions =) :smile:
 
-_Create a GitHub Action and use it in a workflow._
+_Create a Very Fun GitHub Action and use it in a workflow._
 
 </header>
 
